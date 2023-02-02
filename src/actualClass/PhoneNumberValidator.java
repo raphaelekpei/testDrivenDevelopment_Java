@@ -1,4 +1,4 @@
-package phoneNumberValidator;
+package actualClass;
 
 public class PhoneNumberValidator {
 
@@ -7,4 +7,5 @@ public class PhoneNumberValidator {
         return phoneNumber.startsWith("+234") &&
                 phoneNumber.length() == 14;
     }
+
 }

@@ -1,2 +1,4 @@
-package phoneNumberValidator;public class AirConditionerTest {
+package testClass;
+
+public class AirConditionerTest {
 }

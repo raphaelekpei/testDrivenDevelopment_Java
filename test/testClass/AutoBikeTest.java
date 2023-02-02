@@ -1,2 +1,5 @@
-package phoneNumberValidator;public class AutoBikeTest {
+package testClass;
+
+public class AutoBikeTest {
+
 }
